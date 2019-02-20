@@ -1,0 +1,17 @@
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\obj\Debug\CheapestHotelTests.csprojAssemblyReference.cache
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\obj\Debug\CheapestHotelTests.csproj.CoreCompileInputs.cache
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\bin\Debug\CheapestHotelTests.dll
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\bin\Debug\CheapestHotelTests.pdb
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\bin\Debug\CheapestHotel.exe
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\bin\Debug\CheapestHotel.pdb
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\bin\Debug\CheapestHotel.exe.config
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\obj\Debug\CheapestHotelTests.csproj.CopyComplete
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\obj\Debug\CheapestHotelTests.dll
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotelTests\obj\Debug\CheapestHotelTests.pdb

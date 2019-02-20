@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheapestHotelTests", "CheapestHotelTests\CheapestHotelTests.csproj", "{29048BCC-B7CD-4E9A-9C5D-167826F3F77F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheapestHotel", "CheapestHotel\CheapestHotel.csproj", "{EBD16C96-A7E8-4AB9-A11D-C559F2AF25A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29048BCC-B7CD-4E9A-9C5D-167826F3F77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29048BCC-B7CD-4E9A-9C5D-167826F3F77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29048BCC-B7CD-4E9A-9C5D-167826F3F77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29048BCC-B7CD-4E9A-9C5D-167826F3F77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD16C96-A7E8-4AB9-A11D-C559F2AF25A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD16C96-A7E8-4AB9-A11D-C559F2AF25A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD16C96-A7E8-4AB9-A11D-C559F2AF25A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD16C96-A7E8-4AB9-A11D-C559F2AF25A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E1F85D4-05B4-43D4-97B2-4E8AE691E0DF}
+	EndGlobalSection
+EndGlobal

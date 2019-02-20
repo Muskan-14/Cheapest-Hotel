@@ -1,0 +1,7 @@
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotel\bin\Debug\CheapestHotel.exe.config
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotel\bin\Debug\CheapestHotel.exe
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotel\bin\Debug\CheapestHotel.pdb
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotel\obj\Debug\CheapestHotel.csprojAssemblyReference.cache
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotel\obj\Debug\CheapestHotel.csproj.CoreCompileInputs.cache
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotel\obj\Debug\CheapestHotel.exe
+C:\Users\jsethim\source\repos\CheapestHotel\CheapestHotel\obj\Debug\CheapestHotel.pdb
